@@ -1,5 +1,8 @@
 # Digital-Literacy
 
+Name : Krissh Raj Rana
+Reg No : 25BEC10001
+Slot : B23
 
 # 📘 **Overview of Tasks**
 
@@ -22,3 +25,9 @@ In this task, I need to write two emails in a professional way. One email is to 
 Task 5: Cybercrime Awareness Case Study & Prevention
 
 In this task, I have to produce a case study about a form of cybercrime and discuss how it is committed, who is vulnerable to it, and the consequences of being a victim of such a crime. I also have to develop a checklist of safety tips that include UPI and financial security tips and mention reporting mechanisms. This task will help me gain knowledge about online risks and how I can be safe in the online world. I will become more aware of online risks and will use the internet in a responsible manner. I will also be able to guide others about how to avoid such risks.
+
+
+
+Link for google form
+
+https://docs.google.com/forms/d/e/1FAIpQLSd8KQeZpFZ4CvFSzf5bP_2PryFtdLg0QRHDZpFwvh1tVx0Iiw/viewform?usp=publish-editor
