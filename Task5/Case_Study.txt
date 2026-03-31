@@ -1,0 +1,15 @@
+📁 Part A – Case Study (Phishing Attack)
+
+**Case Study: Phishing Scam on a College Student**
+
+**What is Phishing?**
+
+It is a type of cybercrime in which a cybercriminal tricks a person into revealing sensitive information such as a password, bank details, or a one-time password.
+
+The phishing scam can be explained in detail as follows: The phishing scam is a type of attack in which a college student receives a message from a university or a popular internet service provider stating that his/her account has been disabled and that he/she needs to verify his/her information urgently by clicking on a particular link.
+
+The step-by-step explanation of the phishing attack is as follows: The attacker sends a phishing message to the victim. The victim then clicks on the link provided in the phishing message. The victim is then redirected to a fake website where he/she reveals sensitive information by typing in his/her username and password, or bank details. The attacker then gains unauthorized access to a system by using this information and commits a crime.
+
+The phishing attack is on a student as he/she spends a lot of time on the internet and never verifies any information.
+
+This type of cybercrime explains the importance of being careful about phishing scams and how careful a person needs to be while surfing the internet.
